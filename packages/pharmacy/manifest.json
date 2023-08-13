@@ -1,0 +1,18 @@
+{
+  "id": 15,
+  "slug": "pharmacy",
+  "name": "Pharmacy",
+  "description": "A Package to sell medicine",
+  "icon": "stethoscope",
+  "dir": "pharmacy",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "All listings will be hidden when you activate this package for the first time. Please add the expiry date to all listings to get visible again.",
+  "active": false,
+  "provider": "Pharmacy\\PharmacyServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.2.0"
+}

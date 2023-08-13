@@ -1,0 +1,18 @@
+{
+  "id": 17,
+  "slug": "paypal-marketplace",
+  "name": "PayPal Marketplace",
+  "description": "A package for the PayPal marketplace API implementation in zCart.",
+  "icon": "paypal",
+  "dir": "paypalMarketplace",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": true,
+  "provider": "PaypalMarketplace\\PaypalMarketplaceServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.1.0"
+}

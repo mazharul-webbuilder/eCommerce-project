@@ -1,0 +1,18 @@
+{
+  "id": 32,
+  "slug": "packaging",
+  "name": "Packaging",
+  "description": "A Package to create various packaging from vendor and customer can purchase those packaging at the time of product purchase",
+  "icon": "gift",
+  "dir": "packaging",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "Packaging\\PackagingServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.0"
+}

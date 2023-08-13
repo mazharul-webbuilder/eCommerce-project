@@ -1,0 +1,70 @@
+[
+  {
+    "iso_code": "00",
+    "name": "National Capital"
+  },
+  {
+    "iso_code": "01",
+    "name": "Ilocos"
+  },
+  {
+    "iso_code": "02",
+    "name": "Cagayan Valley"
+  },
+  {
+    "iso_code": "03",
+    "name": "Central Luzon"
+  },
+  {
+    "iso_code": "05",
+    "name": "Bicol"
+  },
+  {
+    "iso_code": "06",
+    "name": "Western Visayas"
+  },
+  {
+    "iso_code": "07",
+    "name": "Central Visayas"
+  },
+  {
+    "iso_code": "08",
+    "name": "Eastern Visayas"
+  },
+  {
+    "iso_code": "09",
+    "name": "Zamboanga Peninsula"
+  },
+  {
+    "iso_code": "10",
+    "name": "Northern Mindanao"
+  },
+  {
+    "iso_code": "11",
+    "name": "Davao"
+  },
+  {
+    "iso_code": "12",
+    "name": "Soccsksargen"
+  },
+  {
+    "iso_code": "13",
+    "name": "Caraga"
+  },
+  {
+    "iso_code": "14",
+    "name": "Autonomous Region in Muslim Mindanao"
+  },
+  {
+    "iso_code": "15",
+    "name": "Cordillera Administrative Region"
+  },
+  {
+    "iso_code": "40",
+    "name": "Calabarzon"
+  },
+  {
+    "iso_code": "41",
+    "name": "Mimaropa"
+  }
+]

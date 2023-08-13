@@ -1,0 +1,58 @@
+[
+  {
+    "iso_code": "01",
+    "name": "Kingston"
+  },
+  {
+    "iso_code": "02",
+    "name": "Saint Andrew"
+  },
+  {
+    "iso_code": "03",
+    "name": "Saint Thomas"
+  },
+  {
+    "iso_code": "04",
+    "name": "Portland"
+  },
+  {
+    "iso_code": "05",
+    "name": "Saint Mary"
+  },
+  {
+    "iso_code": "06",
+    "name": "Saint Ann"
+  },
+  {
+    "iso_code": "07",
+    "name": "Trelawny"
+  },
+  {
+    "iso_code": "08",
+    "name": "Saint James"
+  },
+  {
+    "iso_code": "09",
+    "name": "Hanover"
+  },
+  {
+    "iso_code": "10",
+    "name": "Westmoreland"
+  },
+  {
+    "iso_code": "11",
+    "name": "Saint Elizabeth"
+  },
+  {
+    "iso_code": "12",
+    "name": "Manchester"
+  },
+  {
+    "iso_code": "13",
+    "name": "Clarendon"
+  },
+  {
+    "iso_code": "14",
+    "name": "Saint Catherine"
+  }
+]

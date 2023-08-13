@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "slug": "wallet",
+  "name": "Wallet",
+  "description": "This is wallet module for zCart",
+  "icon": "money",
+  "dir": "wallet",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "active": false,
+  "warning": "",
+  "provider": "Wallet\\WalletServiceProvider",
+  "compatible": "2.6.5",
+  "version": "1.4.2"
+}

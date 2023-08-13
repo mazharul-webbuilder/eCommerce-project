@@ -1,0 +1,18 @@
+{
+  "id": 21,
+  "slug": "searchAutocomplete",
+  "name": "Ajax Search Autocomplete",
+  "description": "A Package to add auto search feature with searchbar",
+  "icon": "search",
+  "dir": "searchAutocomplete",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "SearchAutocomplete\\SearchAutocompleteServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.0"
+}

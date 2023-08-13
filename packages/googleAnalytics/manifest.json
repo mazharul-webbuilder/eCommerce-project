@@ -1,0 +1,18 @@
+{
+  "id": 26,
+  "slug": "googleAnalytics",
+  "name": "Google Analytics",
+  "description": "A package to integrtare Google Analytics on zCart",
+  "icon": "bar-chart",
+  "dir": "googleAnalytics",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "GoogleAnalytics\\GoogleAnalyticsServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.0"
+}

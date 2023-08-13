@@ -1,0 +1,18 @@
+{
+  "id": 37,
+  "slug": "google-login",
+  "name": "Sign in with Google",
+  "description": "Add Sign in with Google option to customer registration page",
+  "icon": "google",
+  "dir": "googleLogin",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "GoogleLogin\\GoogleLoginServiceProvider",
+  "compatible": "2.6.1",
+  "version": "1.0.1"
+}

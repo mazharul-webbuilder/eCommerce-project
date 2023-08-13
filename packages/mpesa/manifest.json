@@ -1,0 +1,18 @@
+{
+  "id": 19,
+  "slug": "mpesa",
+  "name": "M-Pesa Payment",
+  "description": "M-Pesa Payment Method for your zCart Marketplace",
+  "icon": "money",
+  "dir": "mpesa",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": true,
+  "provider": "MPesa\\MPesaServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.1.0"
+}

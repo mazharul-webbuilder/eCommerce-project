@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "slug": "subscription",
+  "name": "Subscription",
+  "description": "A zCart package for local wallet based subscription",
+  "icon": "map-pin",
+  "dir": "subscription",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "wallet",
+  "warning": "",
+  "active": false,
+  "provider": "Subscription\\SubscriptionServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.4.0"
+}

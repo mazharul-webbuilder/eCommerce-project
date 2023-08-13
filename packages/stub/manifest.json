@@ -1,0 +1,18 @@
+{
+  "id": null,
+  "slug": "stub",
+  "name": "zCart Package Stub",
+  "description": "Stubs to create zCart package",
+  "icon": "plug",
+  "dir": "stub",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "Stub\\StubServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.0"
+}

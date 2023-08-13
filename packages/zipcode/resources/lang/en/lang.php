@@ -1,0 +1,21 @@
+<?php
+return [
+    'add_zipcodes' => 'Add zipcodes',
+    'add_zipcode_help' => 'Enter all zip codes under the region separated by a comma(,)',
+    'default_zipcode' => 'Default Zipcode',
+    'daylight_saving' => 'Daylight Saving',
+    'create_success' => 'Zipcode information created successfully.',
+    'default_zipcode_help' => 'Setup default zipcode for data sorting',
+    'enter_zipcode' => 'All zipcode of this state',
+    'failed' => 'Zipcode update failed.',
+    'latitude' => 'Latitude',
+    'longitude' => 'Longitude',
+    'required_fields_csv' => 'All filed are <strong>required</strong>',
+    'search_zipcode' => 'Search zipcode',
+    'setup_zipcode' => 'Enter your zipcode',
+    'update_success' => 'Zipcode updated successfully.',
+    'zipcodes' => 'Zipcodes',
+    'zipcode' => 'Zipcode',
+    'zipcode_help' => 'Insert all zipcode here',
+    'zipcode_update_success' => 'Zipcode updated successfully.',
+];

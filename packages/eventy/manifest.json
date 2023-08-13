@@ -1,0 +1,17 @@
+{
+  "id": 11,
+  "slug": "eventy",
+  "name": "Eventy",
+  "description": "Manage events and on zCart platform.",
+  "icon": "calendar",
+  "dir": "eventy",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "active": false,
+  "provider": "Eventy\\EventyServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 16,
+  "slug": "razorpay",
+  "name": "Razorpay",
+  "description": "A package for the razorpay payment method.",
+  "icon": "credit-card",
+  "dir": "razorpay",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": true,
+  "provider": "Razorpay\\RazorpayServiceProvider",
+  "compatible": "2.6.0",
+  "version": "2.0.0"
+}

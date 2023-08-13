@@ -1,0 +1,18 @@
+{
+  "id": 12,
+  "slug": "dynamicCommission",
+  "name": "Dynamic Commission",
+  "description": "A Package to configure marketplace commissions dynamically.",
+  "icon": "percent",
+  "dir": "dynamicCommission",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "wallet",
+  "warning": "",
+  "active": false,
+  "provider": "DynamicCommission\\DynamicCommissionServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.1.0"
+}

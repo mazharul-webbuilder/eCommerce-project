@@ -1,0 +1,18 @@
+{
+  "id": 24,
+  "slug": "instamojo",
+  "name": "Instamojo",
+  "description": "A package for the instamojo payment method.",
+  "icon": "credit-card",
+  "dir": "instamojo",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": true,
+  "provider": "Instamojo\\InstamojoServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.0"
+}

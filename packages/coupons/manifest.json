@@ -1,0 +1,18 @@
+{
+  "id": 35,
+  "slug": "coupons",
+  "name": "Coupons",
+  "description": "A Package to add coupon feature in the site ",
+  "icon": "gift",
+  "dir": "coupons",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "Coupons\\CouponsServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.1"
+}

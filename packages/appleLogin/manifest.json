@@ -1,0 +1,18 @@
+{
+  "id": 18,
+  "slug": "apple-login",
+  "name": "Sign in with Apple",
+  "description": "Add Sign in with Apple option to customer registration page",
+  "icon": "apple",
+  "dir": "appleLogin",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "AppleLogin\\AppleLoginServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.1.0"
+}

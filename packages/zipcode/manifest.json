@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "slug": "zipcode",
+  "name": "Zipcode",
+  "description": "A package for location-based shopping",
+  "icon": "map-marker",
+  "dir": "zipcode",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "Zipcode\\ZipcodeServiceProvider",
+  "compatible": "2.3.6",
+  "version": "1.0.0"
+}

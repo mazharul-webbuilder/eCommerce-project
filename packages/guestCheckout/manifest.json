@@ -1,0 +1,18 @@
+{
+  "id": 27,
+  "slug": "guestCheckout",
+  "name": "Guest Checkout",
+  "description": "A Package to allow guest checkout",
+  "icon": "shopping-cart",
+  "dir": "guestCheckout",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "GuestCheckout\\GuestCheckoutServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.0"
+}

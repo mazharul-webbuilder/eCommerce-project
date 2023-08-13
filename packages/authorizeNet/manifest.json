@@ -1,0 +1,18 @@
+{
+  "id": 28,
+  "slug": "authorizenet",
+  "name": "Authorize.Net",
+  "description": "A package for the Authorize.Net payment method.",
+  "icon": "credit-card",
+  "dir": "authorizeNet",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": true,
+  "provider": "AuthorizeNet\\AuthorizeNetServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.0"
+}

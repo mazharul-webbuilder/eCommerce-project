@@ -1,0 +1,18 @@
+{
+  "id": 13,
+  "slug": "sslcommerz",
+  "name": "SSLCOMMERZ",
+  "description": "A package for the sslcommerz payment method.",
+  "icon": "credit-card",
+  "dir": "sslcommerz",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": true,
+  "provider": "SslCommerz\\SslCommerzServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.1.0"
+}

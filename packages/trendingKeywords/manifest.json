@@ -1,0 +1,18 @@
+{
+  "id": 23,
+  "slug": "trendingKeywords",
+  "name": "Trending Search Keywords",
+  "description": "A Package to set trending search keywords to boost conversion.",
+  "icon": "bolt",
+  "dir": "trendingKeywords",
+  "author": "Incevio Team",
+  "email": "help@incevio.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "dependency": "",
+  "warning": "",
+  "active": false,
+  "provider": "TrendingKeywords\\TrendingKeywordsServiceProvider",
+  "compatible": "2.6.0",
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+<?php
+return [
+    'address_line_1' => 'Address',
+    'address_line_2' => 'Apartment, unit, suite, or floor',
+    'address_title' => 'Contact Person',
+    'city' => 'City',
+    'country' => 'Country',
+    'confirm_password' => 'Confirm Password',
+    'current_password' => 'Current Password',
+    'description' => 'Description',
+    'dob' => 'YYYY-MM-DD',
+    'email' => 'Please enter your email',
+    'full_name' => 'Full Name',
+    'message' => 'Write your message within 500 characters',
+    'name' => 'Your Name',
+    'nice_name' => 'Nice Name',
+    'password' => 'Password',
+    'phone_number' => 'Contact Number',
+    'state' => 'State/Province/Region',
+    'your_email' => 'Your Email',
+    'valid_email' => 'Enter a valid email address',
+    'zip_code' => 'Zip Code',
+];

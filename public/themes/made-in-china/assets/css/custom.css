@@ -1,0 +1,224 @@
+/**custom css*/
+
+.zcart-filter-fields .form-check-inline {
+    margin-right: 20px!important;
+}
+
+.zcart-category-list-group ul li a{
+    /*color: #fa0!important;*/
+}
+
+.product-details-action .zcart-button{
+    font-size: larger;
+    margin: 8px;
+}
+
+@media only screen and (min-width: 1200px){
+    .products-archive.zcart-dual-view.zcart-list-view .product-details-action .zcart-button {
+        font-size: larger;
+        margin: 8px;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+    .products-archive.zcart-dual-view.zcart-list-view .product-details-action .product-details-action a {
+        font-size: larger!important;
+        font-weight: normal;
+        margin: 8px;
+    }
+}
+
+.zcart-filter-check .grid-list-view {
+    top: -1px!important;
+}
+
+table.single-product-info-tbl td {
+    padding: 10px 10px 10px 10px!important;
+}
+
+/*.share-buttons{
+    font-size: large;
+}*/
+
+.sc-add-to-cart{
+    width: 100%;
+    text-align: center;
+}
+
+#buy-now-btn{
+    width: 100%;
+    text-align: center;
+}
+
+.share a {
+    width: 27px;
+    height: 27px;
+    background: #444;
+    /* font-size: 16px; */
+    border-radius: 3px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFF;
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 3px;
+}
+
+@media (min-width: 992px){
+    .nopadding-left {
+        padding-left: 2px !important;
+    }
+}
+
+@media (min-width: 992px){
+    .nopadding-right {
+        padding-right: 2px !important;
+    }
+}
+
+#product-info-shipping-detail, .product-single .product-info-options .info-label {
+    display: inline;
+    font-size: 14px;
+}
+
+
+.pull-right {
+    float: right !important;
+}
+.pull-left {
+    float: left !important;
+}
+
+
+/** Margin button group */
+.space5 {
+    margin-bottom: 5px !important;
+}
+.space10 {
+    margin-bottom: 10px !important;
+}
+.space15 {
+    margin-bottom: 15px !important;
+}
+.space20 {
+    margin-bottom: 20px !important;
+}
+.space25 {
+    margin-bottom: 25px !important;
+}
+.space30 {
+    margin-bottom: 30px !important;
+}
+.space35 {
+    margin-bottom: 35px !important;
+}
+.space40 {
+    margin-bottom: 40px !important;
+}
+.space45 {
+    margin-bottom: 45px !important;
+}
+.space50 {
+    margin-bottom: 50px !important;
+}
+/** end Margin button group*/
+
+.text-primary {
+    color: #009686 !important;
+}
+.section-title {
+    position: relative;
+    text-align: center;
+    margin: 20px auto 5px auto;
+    /* overflow: hidden; */
+}
+.section-title h4 {
+    display: inline-block;
+    position: relative;
+    font-size: 19px;
+    font-weight: 400;
+    color: #555;
+    padding: 0px 20px;
+}
+
+.product-single .product-info-options .row {
+    margin-bottom: 15px;
+}
+.product-single .product-info-options .qtt-label {
+    line-height: 33px;
+}
+@media (min-width: 992px) {
+    .nopadding {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+}
+
+.product-qty-wrapper {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.product-info-qty-item {
+    float: left;
+    /* margin-right: 10px; */
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+}
+.product-qty-wrapper .available-qty-count {
+    margin-left: 10px;
+    line-height: 33px;
+    vertical-align: middle;
+    font-style: italic;
+    color: #767676 !important;
+}
+.product-info-qty {
+    background: #fff;
+    height: 33px;
+    width: 32px;
+    line-height: 33px;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 0;
+    border: none;
+}
+
+.product-info-qty-input {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    width: 45px;
+}
+
+
+ul.key_feature_list li {
+    list-style: disc!important;
+    margin-bottom: 6px;
+    font-size: 13px;
+    color: #636363;
+}
+ul.key_feature_list {
+    padding-left: 15px!important;
+}
+
+img.verified-badge {
+    margin-left: 5px;
+    margin-bottom: 3px;
+    margin-right: 5px !important;
+}
+
+img.img-tiny {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.margintop20{
+    margin-top: 20px!important;
+}
+.margintop10{
+    margin-top: 10px!important;
+}
+.margintop30{
+    margin-top: 30px!important;
+}
